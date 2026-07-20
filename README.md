@@ -113,10 +113,10 @@ Server runs at: `http://localhost:3000`
 
 #### 📸 Example: Successful Calculation
 **Sample Input:**
-
+<img width="1597" height="612" alt="Screenshot 2026-07-20 203805" src="https://github.com/user-attachments/assets/4b080da8-ad50-411e-ac86-42043f844318" />
 
 #### 📸 Example: Validation Error
-
+<img width="1620" height="312" alt="Screenshot 2026-07-20 203901" src="https://github.com/user-attachments/assets/6d210ddb-545c-41e6-9296-963357b7380c" />
 
 ### 2. Health Check
 
