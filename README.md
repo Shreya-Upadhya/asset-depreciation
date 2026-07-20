@@ -235,6 +235,15 @@ Ran all test suites.
 - **Environment Variables** — Sensitive config in `.env` (git-ignored)
 
 ---
+## 📝 Design Notes / Assumptions
+
+- **Depreciation method:** The reference calculator supports three methods 
+  (straight-line, declining balance, sum-of-years-digits). This implementation 
+  uses the **Straight-Line Method (SLM)** as it wasn't explicitly specified in 
+  the requirements. The service layer is structured so additional methods can 
+  be added later via a `method` parameter.
+- **HTTP method:** `POST` was used since this is a computation/action endpoint 
+  with multiple structured inputs, rather than a read of an existing resource.
 
 ## 👤 Author
 
