@@ -62,7 +62,6 @@ asset-depreciation/
 │   └── app.js                            # Express app entry point
 ├── tests/
 │   └── depreciation.test.js              # Automated tests
-├── assets/                               # Screenshots for README
 ├── .env.example
 ├── .gitignore
 ├── package.json
