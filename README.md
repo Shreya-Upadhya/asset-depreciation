@@ -245,8 +245,3 @@ Ran all test suites.
 - **HTTP method:** `POST` was used since this is a computation/action endpoint 
   with multiple structured inputs, rather than a read of an existing resource.
 
-## 👤 Author
-
-**Shreya**  
-
----
