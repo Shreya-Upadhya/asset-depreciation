@@ -9,9 +9,9 @@ A RESTful API built with **Node.js** and **Express** to calculate asset deprecia
 - ✅ Single endpoint to calculate asset depreciation
 - ✅ Year-wise breakdown of depreciation, opening & closing values
 - ✅ Joi-based input validation with clear error messages
-- ✅ Automated tests with Jest & Supertest (11 test cases)
-- ✅ Layered architecture (Routes → Middleware → Controllers → Services)
-- ✅ Security middleware (Helmet, CORS)
+- ✅ Automated tests with Jest 
+- ✅ Layered architecture 
+- ✅ Security middleware 
 - ✅ Request logging with Morgan
 - ✅ Health check endpoint
 
@@ -27,7 +27,7 @@ Annual Depreciation = (Cost of Asset - Salvage Value) / Duration
 
 **Example:**  
 Cost: ₹10,000 | Salvage Value: ₹1,000 | Duration: 5 years  
-**Annual Depreciation = (10,000 - 1,000) / 5 = ₹1,800/year** ✅
+**Annual Depreciation = (10,000 - 1,000) / 5 = ₹1,800/year** 
 
 ---
 
