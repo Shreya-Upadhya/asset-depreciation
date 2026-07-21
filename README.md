@@ -226,15 +226,6 @@ Ran all test suites.
 
 ---
 
-## 🔒 Security Features
-
-- **Helmet** — HTTP security headers (XSS, clickjacking protection)
-- **CORS** — Cross-Origin Resource Sharing configuration
-- **Input Validation** — Joi validates all incoming requests
-- **Error Handling** — Structured error responses
-- **Environment Variables** — Sensitive config in `.env` (git-ignored)
-
----
 ## 📝 Design Notes / Assumptions
 
 - **Depreciation method:** The reference calculator supports three methods 
